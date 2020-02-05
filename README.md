@@ -4,7 +4,7 @@ Web application to (simulatedly) buy flight tickets. It uses PHP in the backend,
 
 | | |
 |-|-|
-| **Language**   | Spanish |
+| **Language**   | Spanish (report), English (UI) |
 | **Authors** | Albert Espín |
 | **Date**  | February-May 2018  |
 | **License** |  Creative Commons Attribution, Non-Commercial, Non-Derivative |
@@ -14,7 +14,7 @@ Web application to (simulatedly) buy flight tickets. It uses PHP in the backend,
 
 ![](image.png)
 ![](logged.png)
-![](flight.png)
 ![](checks.png)
+![](flight.png)
 ![](table.png)
 ![](tickets.png)
