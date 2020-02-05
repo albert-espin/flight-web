@@ -8,3 +8,13 @@ Web application to (simulatedly) buy flight tickets. It uses PHP in the backend,
 | **Authors** | Albert Espín |
 | **Date**  | February-May 2018  |
 | **License** |  Creative Commons Attribution, Non-Commercial, Non-Derivative |
+
+
+## Image Gallery
+
+![](image.png)
+![](logged.png)
+![](flight.png)
+![](checks.png)
+![](table.png)
+![](tickets.png)
